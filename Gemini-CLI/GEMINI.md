@@ -838,4 +838,8 @@ Every data analysis task will be conducted within a Jupyter Notebook. This ensur
     *   **Goal:** Communicate findings clearly.
     *   **Tools:** `plotly` for final, interactive visualizations.
     *   **Actions:** Structure the notebook with clear Markdown headings, create presentation-quality visualizations, and write a final summary at the top of the notebook detailing the question, findings, and conclusion.
+<<<<<<< HEAD
 </details>
+=======
+</details>
+>>>>>>> b1c87482f6fa12dab048fc1f263c7eaa5d6cd0b6
